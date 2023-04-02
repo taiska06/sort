@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1680458636 source:c:\users\apaki\desktop\bubble.sort\main.cpp
+	<iostream>
+	<vector>
+	"sort.h"
+
+1680455355 source:c:\users\apaki\desktop\bubble.sort\sort.cpp
+	<iostream>
+	<vector>
+	"sort.h"
+
+1680440126 c:\users\apaki\desktop\bubble.sort\sort.h
+	<iostream>
+	<vector>
+	"sort.h"
+
